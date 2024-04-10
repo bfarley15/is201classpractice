@@ -1,0 +1,61 @@
+/*coding in CSS when in style*/
+body {
+    background-color: rgba(206, 48, 48, 0.615);
+    color: azure;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Avenir, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h5 {
+    display: inline;
+    text-align: center;
+    font-style: italic;
+    background-color: green; opacity: 75%;
+    font-weight: bolder;
+}
+
+a {
+    color: aquamarine;
+}
+
+a:visited {
+    color: rgb(138, 148, 140);
+}
+
+img {
+    border: 2px solid rgb(99, 12, 66);
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+    font-size: larger;
+    color: aquamarine;
+    border-bottom-left-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-feature-settings: "c2pc";
+    background-color: brown;
+    border: 3px;
+    color: black;
+    border-style: dashed;
+    font-style: italic;
+
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
+
+
+

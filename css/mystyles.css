@@ -1,0 +1,19 @@
+body{
+    font-family: avenir;
+}
+/* .site-heading-lower{
+    font-family: avenir
+} */
+ .mb-3{
+    font-family: avenir;
+    color: yellow !important;
+} 
+.notyellow{
+    color: black !important
+}
+.white{
+    color: rgb(252, 228, 168) !important
+}
+.intro-text{
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
